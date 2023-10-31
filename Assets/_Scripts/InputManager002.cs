@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class InputManager : MonoBehaviour
+public class InputManager002 : MonoBehaviour
 {
     float myTimer = 0f;
     public float rotateSpeed = 0.001f;
